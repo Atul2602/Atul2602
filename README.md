@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Atul2602
-- 👀 I’m interested in Maths and Computer Science
-- 🌱 I’m currently learning Web Development and Design.
+- 👀 I’m interested in Math and Computer Science.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me : atuliraz1305@gmail.com
 
