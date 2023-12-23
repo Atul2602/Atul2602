@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atul2602
+- 👋 Hi, I’m Atul, a Mathematics and Computing Junior at IIT Delhi.
 - 👀 I’m interested in Math and Computer Science.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me : atuliraz1305@gmail.com
