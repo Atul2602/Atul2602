@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Atul, a Mathematics and Computing Junior at IIT Delhi.
+- 👋 Hi, I’m Atul, a Mathematics and Computing Senior at IIT Delhi.
 - 👀 I’m interested in Math and Computer Science.
-- 💞️ I’m looking to collaborate on Python projects.
-- 📫 How to reach me : atuliraz1305@gmail.com
+- 💞️ Looking for opportunities in Quant Research/Trading/Finance, Machine Learning and Software Development.
+- 📫 How to reach me : mt1210623@iitd.ac.in
 
 
 ![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohinoor23&show_icons=true&theme=dark&rank_icon=github)
